@@ -1,0 +1,81 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is JavaScript?",
+      "OptionA": "JavaScript is a scripting language used to make the website interactive",
+      "OptionB": "JavaScript is an assembly language used to make the website interactive",
+      "OptionC": "JavaScript is a compiled language used to make the website interactive",
+      "OptionD": "None of the mentioned",
+      "correctAnswerOption": "OptionA",
+      "attacmentImage": "gj.com",
+      "attacmentVideo": "vid.com"
+    },
+    {
+      "id": 2,
+      "question": "which of the following is correct about JavaScript?",
+      "OptionA": "JavaScript is an Object-Based language",
+      "OptionB": "JavaScript is Assembly-language",
+      "OptionC": "JavaScript is an Object-Oriented language",
+      "OptionD": "JavaScript is a High-level language",
+      "correctAnswerOption": "OptionA",
+      "attacmentImage": "gj.com",
+      "attacmentVideo": "vid.com"
+    },
+    {
+      "id": 3,
+      "question": "In which HTML element, we put the JavaScript code?",
+      "OptionA": "<javascript>...</javascript>",
+      "OptionB": "<js>...</js>",
+      "OptionC": "<script>...</script>",
+      "OptionD": "<css>...</css>",
+      "correctAnswerOption": "OptionC",
+      "attacmentImage": "gj.com",
+      "attacmentVideo": "vid.com"
+    },
+    {
+      "question": "abcd",
+      "OptionA": "a",
+      "OptionB": "b",
+      "OptionC": "c",
+      "OptionD": "d",
+      "correctAnswerOption": "OptionB",
+      "attacmentImage": "gj.com",
+      "attacmentVideo": "vid.com",
+      "id": 4
+    },
+    {
+      "question": "x",
+      "OptionA": "x",
+      "OptionB": "x",
+      "OptionC": "x",
+      "OptionD": "x",
+      "correctAnswerOption": "option1",
+      "attacmentImage": "x",
+      "attacmentVideo": "x",
+      "id": 5
+    },
+    {
+      "OptionA": "rtty",
+      "OptionB": "yrtyrt",
+      "OptionC": "rtyrtyrt",
+      "OptionD": "rtyrty",
+      "correctAnswerOption": "option2",
+      "question": "rtrtrt",
+      "attacmentImage": "tytyrt",
+      "attacmentVideo": "yrtry",
+      "id": 6
+    },
+    {
+      "question": "v",
+      "OptionA": "v",
+      "OptionB": "v",
+      "OptionC": "v",
+      "OptionD": "v",
+      "correctAnswerOption": "option1",
+      "attacmentImage": "v",
+      "attacmentVideo": "v",
+      "id": 7
+    }
+  ]
+}
